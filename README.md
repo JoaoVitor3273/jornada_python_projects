@@ -8,3 +8,6 @@ Projetos desenvolvidos durante a Jornada Python da Hashtag Treinamentos.
 2. Análise e tratamento de dados
 3. Machine Learning com Scikit-learn
 4. Chatbot com OpenAI e Streamlit
+
+⚠️ Este projeto utiliza a API da OpenAI. 
+Para executar completamente, é necessário adicionar uma chave de API válida.
